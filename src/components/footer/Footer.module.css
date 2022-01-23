@@ -44,7 +44,8 @@
     color: gray;
 }
 .cp{
-    width: 60%;
+    /* width: 60%; */
+    width: 100%;
     margin-top: 5%;
     color: white;
 }
