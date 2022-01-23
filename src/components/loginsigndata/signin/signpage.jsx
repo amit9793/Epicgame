@@ -1,5 +1,6 @@
 import "../signin/signin.css";
-export const Submit = () => {
+import { Link } from "react-router-dom";
+export const Signin = () => {
   return (
     <>
       <div id="container">
@@ -13,7 +14,9 @@ export const Submit = () => {
         <input type="" id="password" placeholder="Enter Password" />
 
         <div>
-          <button onclick="submit()">Submit</button>
+          <Link to="/login">
+            <button onclick="submit()">Submit</button>
+          </Link>
         </div>
       </div>
     </>

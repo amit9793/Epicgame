@@ -3,6 +3,7 @@ import Style from "./BuyNow.module.css";
 import tennis1 from "../../img/tennis1.png";
 import windows from "../../img/window.png";
 import mac from "../../img/mac.png";
+import { Link } from "react-router-dom";
 
 export const BuyNow = () => {
   return (
@@ -18,7 +19,9 @@ export const BuyNow = () => {
         <p className={Style.sale}>Sale ends 1/30/2022 at 11:30 AM</p>
       </div>
       <div className={Style.btn}>
-        <button>BUY NOW</button>
+        <Link to="/signin">
+          <button>BUY NOW</button>
+        </Link>
         <button>ADD TO CART</button>
         <button>ADD TO WISHLIST</button>
       </div>
