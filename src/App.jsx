@@ -8,11 +8,9 @@ import {Homepage} from './components/Homepage'
 export const App = () => {
     return (
          < div >
-            {/* <Homepage /> */}
-            {/* <Cart/> */}
-            {/* <Game/> */}
-           {/* <TennisManager/> */}
-           <Details/>
+            <Homepage />
+          
+           {/* <Details/> */}
         
     
       
