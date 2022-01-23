@@ -1,8 +1,8 @@
 #container {
   background-color: rgb(248, 246, 245);
-  height: 500px;
+  height: 600px;
   width: 400px;
-  margin-left: 500px;
+  margin-left: 800px;
   margin-top: 100px;
 }
 input {
@@ -27,4 +27,8 @@ button {
   height: 35px;
   width: 99%;
   margin-top: 40px;
+}
+#mobile {
+  margin-left: 0px;
+  border-radius: 4%;
 }
