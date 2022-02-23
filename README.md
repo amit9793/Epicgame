@@ -30,18 +30,6 @@ Clone the app
  They Provide all types of games for PS1 PS2 PS3 PS4 PS5.`
 
 
-### TEAM MEMBERS:
-
-#### Web Developer
-
-
-`Amit Yadav`
-
-
-
-
-
-
 ### Pages
 
 
