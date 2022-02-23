@@ -33,13 +33,11 @@ Clone the app
 ### TEAM MEMBERS:
 
 #### Web Developer
-`Sharoof Khan`
+
 
 `Amit Yadav`
 
-`Utkarsh dalmia`
 
-`Mahboob Ashraf`
 
 
 
