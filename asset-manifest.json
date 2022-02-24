@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Epicgame/static/css/main.dbc840dd.css",
+    "main.js": "/Epicgame/static/js/main.2e963c16.js",
+    "static/js/787.322171f2.chunk.js": "/Epicgame/static/js/787.322171f2.chunk.js",
+    "static/media/Twitter.jpg": "/Epicgame/static/media/Twitter.6291758eb770d48a3e71.jpg",
+    "static/media/logo.png": "/Epicgame/static/media/logo.8ee352ffe10cbbdd59c6.png",
+    "static/media/up.jpg": "/Epicgame/static/media/up.5dcf2a12d9e4f0978596.jpg",
+    "static/media/tennis1.png": "/Epicgame/static/media/tennis1.1d88a09593c90c12408a.png",
+    "static/media/gift.png": "/Epicgame/static/media/gift.51d11e9f5c6cfcdd1736.png",
+    "static/media/unreal-engin.png": "/Epicgame/static/media/unreal-engin.af4ff0a6ae5187db3432.png",
+    "static/media/user.png": "/Epicgame/static/media/user.ee8622df1d26a1e62f1f.png",
+    "static/media/globe.png": "/Epicgame/static/media/globe.f1f1c41d204841b720d7.png",
+    "index.html": "/Epicgame/index.html",
+    "main.dbc840dd.css.map": "/Epicgame/static/css/main.dbc840dd.css.map",
+    "main.2e963c16.js.map": "/Epicgame/static/js/main.2e963c16.js.map",
+    "787.322171f2.chunk.js.map": "/Epicgame/static/js/787.322171f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc840dd.css",
+    "static/js/main.2e963c16.js"
+  ]
+}
